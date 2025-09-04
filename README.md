@@ -28,6 +28,7 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
 - 📝 Assigned static IP addresses and configured DHCP  
 - 🔒 Created and secured a guest network  
 - 🧪 Used `ipconfig`, `ping`, `tracert`, `nslookup` for troubleshooting  
+- 🔌 **Created Ethernet cables (T568A, T568B, and crossover)** using crimping tools and verified connectivity  
 
 ---
 
@@ -83,4 +84,4 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sharon-oiti)  
 - 📧 [Email](mailto:sharon.m.oiti@gmail.com)  
-- 🖥️ [GitHub](https://github.com/SharonOiti)  
+- 🖥️ [GitHub](https://github.com/SharonOiti)
