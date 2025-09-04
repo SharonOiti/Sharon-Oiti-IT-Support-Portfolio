@@ -63,6 +63,16 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
 
 ---
 
+## 🖐️ Hands-On Hardware Skills  
+
+- 🖥️ PC assembly, teardown, and cable management  
+- 🧩 Hardware component identification (CPU, RAM, GPU, PSU, SSD/HDD, motherboard)  
+- ❄️ Thermal paste application & airflow optimization  
+- 🔌 Ethernet cable creation: **T568A, T568B, and crossover** (tested with crimping tools)  
+- 🔧 Use of multimeter and SATA/IDE converters for diagnostics  
+
+---
+
 ## 🛠 Tools & Platforms  
 
 - 💻 **Operating Systems:** Windows 10/11, Ubuntu Linux  
