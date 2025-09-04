@@ -45,6 +45,19 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
   -  🔧 Use of multimeter and SATA/IDE converters for diagnostics
 
 ---
+### 🤖 AI Tier 1 IT Support Chatbot
+- 🧑‍💻 Built a Python-based **Tier 1 IT Support simulation tool**  
+- 📚 Integrated a **knowledge base** of common issues (Password Reset, Printer Offline, Wi-Fi Troubleshooting, etc.)  
+- ⚡ Automated ticket lookups and solutions using **pandas** and structured logs  
+- 🌐 Simulated **device connectivity checks** with automated ping tests  
+- 📝 Designed modular scripts:
+  - `ai_chatbot.py` → Handles IT issue Q&A responses  
+  - `knowledge_base.py` → Reads/writes issue logs and solutions  
+  - `automation.py` → Runs device connectivity checks  
+- 🔒 Implemented **API key management** with environment variables for security  
+- 🧩 Example output:
+
+---
   
 ### 💽 Operating System Installation (Windows & Linux)  
 - 💿 Installed **Windows 10** and **Ubuntu** on separate machines  
