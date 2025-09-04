@@ -28,7 +28,37 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
 - 📝 Assigned static IP addresses and configured DHCP  
 - 🔒 Created and secured a guest network  
 - 🧪 Used `ipconfig`, `ping`, `tracert`, `nslookup` for troubleshooting  
-- 🔌 **Created Ethernet cables (T568A, T568B, and crossover)** using crimping tools and verified connectivity  
+- 🔌 **Created Ethernet cables (T568A, T568B, and crossover)** using crimping tools and verified connectivity
+- ## 🖐️ Hands-On Hardware Skills  
+
+- 🖥️ PC assembly, teardown, and cable management  
+- 🧩 Hardware component identification (CPU, RAM, GPU, PSU, SSD/HDD, motherboard)  
+- ❄️ Thermal paste application & airflow optimization  
+- 🔌 Ethernet cable creation (straight-through and crossover):  
+  - **T568A Standard (pins 1-8):**  
+    | Pin | Wire Color |
+    |-----|------------|
+    | 1   | White/Green |
+    | 2   | Green       |
+    | 3   | White/Orange |
+    | 4   | Blue        |
+    | 5   | White/Blue  |
+    | 6   | Orange      |
+    | 7   | White/Brown |
+    | 8   | Brown       |
+  - **T568B Standard (pins 1-8):**  
+    | Pin | Wire Color |
+    |-----|------------|
+    | 1   | White/Orange |
+    | 2   | Orange       |
+    | 3   | White/Green |
+    | 4   | Blue         |
+    | 5   | White/Blue   |
+    | 6   | Green        |
+    | 7   | White/Brown  |
+    | 8   | Brown        |
+  - **Crossover Cable:** T568A on one end, T568B on the other  
+- 🔧 Use of multimeter and SATA/IDE converters for diagnostics   
 
 ---
 
