@@ -13,16 +13,6 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
 - ⚡ Verified compatibility and followed proper static safety procedures  
 
 ---
-
-### 💽 Operating System Installation (Windows & Linux)  
-- 💿 Installed **Windows 10** and **Ubuntu** on separate machines  
-- 🛠️ Created bootable USB drives with Rufus  
-- 🔑 Configured BIOS/UEFI settings and boot priorities  
-- 📂 Partitioned drives, installed drivers, and enabled system updates  
-- 🔄 Tested dual-boot environment  
-
----
-
 ### 📡 Home Network Setup  
 - 🌐 Set up and configured a home LAN and wireless network  
 - 📝 Assigned static IP addresses and configured DHCP  
@@ -51,8 +41,17 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
     | 6   | Green        |
     | 7   | White/Brown  |
     | 8   | Brown        |
-  - **Crossover Cable:** T568A on one end, T568B on the other  
-- 🔧 Use of multimeter and SATA/IDE converters for diagnostics   
+  - **Crossover Cable:** T568A on one end, T568B on the other
+  -  🔧 Use of multimeter and SATA/IDE converters for diagnostics
+
+---
+  
+### 💽 Operating System Installation (Windows & Linux)  
+- 💿 Installed **Windows 10** and **Ubuntu** on separate machines  
+- 🛠️ Created bootable USB drives with Rufus  
+- 🔑 Configured BIOS/UEFI settings and boot priorities  
+- 📂 Partitioned drives, installed drivers, and enabled system updates  
+- 🔄 Tested dual-boot environment  
 
 ---
 
