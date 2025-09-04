@@ -29,12 +29,6 @@ This portfolio showcases hands-on technical projects that reflect my knowledge a
 - 🔒 Created and secured a guest network  
 - 🧪 Used `ipconfig`, `ping`, `tracert`, `nslookup` for troubleshooting  
 - 🔌 **Created Ethernet cables (T568A, T568B, and crossover)** using crimping tools and verified connectivity
-- ## 🖐️ Hands-On Hardware Skills  
-
-- 🖥️ PC assembly, teardown, and cable management  
-- 🧩 Hardware component identification (CPU, RAM, GPU, PSU, SSD/HDD, motherboard)  
-- ❄️ Thermal paste application & airflow optimization  
-- 🔌 Ethernet cable creation (straight-through and crossover):  
   - **T568A Standard (pins 1-8):**  
     | Pin | Wire Color |
     |-----|------------|
